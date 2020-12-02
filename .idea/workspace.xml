@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14975c97-e131-4018-b3f6-64adffc70892" name="Default Changelist" comment="" />
+    <list default="true" id="14975c97-e131-4018-b3f6-64adffc70892" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/models/operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/product_category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/routing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/product_category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1irxIjMNG41T6pSm0z0UxK5pKOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,6 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -24,6 +42,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="14975c97-e131-4018-b3f6-64adffc70892" name="Default Changelist" comment="" />
@@ -31,11 +52,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602679437273</updated>
-      <workItem from="1602679439240" duration="655000" />
+      <workItem from="1602679439240" duration="13990000" />
+      <workItem from="1602852178378" duration="25188000" />
+      <workItem from="1603865698244" duration="13738000" />
+      <workItem from="1604591488821" duration="2114000" />
+      <workItem from="1605333604962" duration="6918000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1603372326636">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800/1280.-40.1920.1080@0.0.1280.800" timestamp="1603372326636" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1602766927179">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/1280.-40.1920.1080@0.0.1280.800" timestamp="1602766927179" />
   </component>
 </project>
